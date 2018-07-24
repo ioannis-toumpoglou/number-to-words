@@ -10,6 +10,9 @@ more zeros. Eg. 100 --> 001 --> 1. This can be solved with a function that count
 integer's number of digits. It is then used to print out the word "Zero" for every
 digit that was "lost" at the reversal.
 
+
 The final result of the application is:
+
 100 --> "One Zero Zero"
+
 123 --> "One Two Three"
