@@ -1,5 +1,5 @@
 # NumberToWords
-A Java application that gets an integer and returns its digits in words
+An application that gets an integer and returns its digits in words.
 
 The way the code works, it returns the words of these digits in reverse order.
 That is why a function that reverses the digits is needed.
